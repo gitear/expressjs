@@ -1,0 +1,22 @@
+{
+  "name": "gitear",
+  "version": "1.0.0",
+  "description": "gitear",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitear/expressjs.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "gitear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitear/expressjs/issues"
+  },
+  "homepage": "https://github.com/gitear"
+}
